@@ -1,0 +1,32 @@
+img {
+    width:400px;
+    border:groove;
+}
+.forts {
+    font-size:x-large;
+    font-family: 'Freckle Face', cursive;
+    color:black;
+}
+body {
+    background-color:darkgreen;
+}
+p {
+    color:white;
+}
+h1 {
+    
+    color:white;
+}
+.builds {
+     font-size:x-large;
+     font-family: 'Permanent Marker', cursive;
+} 
+.walls { 
+     font-size:x-large;
+     font-family: 'Kumar One Outline', cursive;
+     
+}
+.ramps {
+     font-size:x-large;
+     font-family: 'Poor Story', cursive;
+}
